@@ -1,0 +1,29 @@
+
+@media (max-width: 376px){
+    
+    .section_div{
+        padding: 119px 14px 120px;
+        
+    }
+    .header1{
+        justify-content: space-evenly;
+    }
+    .header_div{
+        margin-left: 58px;
+    }
+    /* section2 */
+
+   .card{
+    flex-direction: column;
+    row-gap: 21px;
+   }
+   .section_h3{
+    font-size: 32px;
+    line-height: 40px;
+   }
+   .section_p{
+    font-size: 14px;
+    line-height: 22px;
+   }
+   
+}
